@@ -1,0 +1,3012 @@
+.icon {
+	background:url(/img/iconsprite.png);
+	width:16px;
+	height:16px;
+	display:block;
+	float:left;
+	color:transparent;
+	color:#fff;
+	text-indent:-9999em;
+	cursor:pointer;
+	margin:12px;
+}
+.accept {
+	background-position:0px 0px;
+}
+.add {
+	background-position:0px -16px;
+}
+.anchor {
+	background-position:0px -32px;
+}
+.application {
+	background-position:0px -48px;
+}
+.application_add {
+	background-position:0px -64px;
+}
+.application_cascade {
+	background-position:0px -80px;
+}
+.application_delete {
+	background-position:0px -96px;
+}
+.application_double {
+	background-position:0px -112px;
+}
+.application_edit {
+	background-position:0px -128px;
+}
+.application_error {
+	background-position:0px -144px;
+}
+.application_form {
+	background-position:0px -160px;
+}
+.application_form_add {
+	background-position:0px -176px;
+}
+.application_form_delete {
+	background-position:0px -192px;
+}
+.application_form_edit {
+	background-position:0px -208px;
+}
+.application_form_magnify {
+	background-position:0px -224px;
+}
+.application_get {
+	background-position:0px -240px;
+}
+.application_go {
+	background-position:0px -256px;
+}
+.application_home {
+	background-position:0px -272px;
+}
+.application_key {
+	background-position:0px -288px;
+}
+.application_lightning {
+	background-position:0px -304px;
+}
+.application_link {
+	background-position:0px -320px;
+}
+.application_osx {
+	background-position:0px -336px;
+}
+.application_osx_terminal {
+	background-position:0px -352px;
+}
+.application_put {
+	background-position:0px -368px;
+}
+.application_side_boxes {
+	background-position:0px -384px;
+}
+.application_side_contract {
+	background-position:0px -400px;
+}
+.application_side_expand {
+	background-position:0px -416px;
+}
+.application_side_list {
+	background-position:0px -432px;
+}
+.application_side_tree {
+	background-position:0px -448px;
+}
+.application_split {
+	background-position:0px -464px;
+}
+.application_tile_horizontal {
+	background-position:0px -480px;
+}
+.application_tile_vertical {
+	background-position:0px -496px;
+}
+.application_view_columns {
+	background-position:-16px 0px;
+}
+.application_view_detail {
+	background-position:-16px -16px;
+}
+.application_view_gallery {
+	background-position:-16px -32px;
+}
+.application_view_icons {
+	background-position:-16px -48px;
+}
+.application_view_list {
+	background-position:-16px -64px;
+}
+.application_view_tile {
+	background-position:-16px -80px;
+}
+.application_xp {
+	background-position:-16px -96px;
+}
+.application_xp_terminal {
+	background-position:-16px -112px;
+}
+.arrow_branch {
+	background-position:-16px -128px;
+}
+.arrow_divide {
+	background-position:-16px -144px;
+}
+.arrow_down {
+	background-position:-16px -160px;
+}
+.arrow_in {
+	background-position:-16px -176px;
+}
+.arrow_inout {
+	background-position:-16px -192px;
+}
+.arrow_join {
+	background-position:-16px -208px;
+}
+.arrow_left {
+	background-position:-16px -224px;
+}
+.arrow_merge {
+	background-position:-16px -240px;
+}
+.arrow_out {
+	background-position:-16px -256px;
+}
+.arrow_redo {
+	background-position:-16px -272px;
+}
+.arrow_refresh {
+	background-position:-16px -288px;
+}
+.arrow_refresh_small {
+	background-position:-16px -304px;
+}
+.arrow_right {
+	background-position:-16px -320px;
+}
+.arrow_rotate_anticlockwise {
+	background-position:-16px -336px;
+}
+.arrow_rotate_clockwise {
+	background-position:-16px -352px;
+}
+.arrow_switch {
+	background-position:-16px -368px;
+}
+.arrow_turn_left {
+	background-position:-16px -384px;
+}
+.arrow_turn_right {
+	background-position:-16px -400px;
+}
+.arrow_undo {
+	background-position:-16px -416px;
+}
+.arrow_up {
+	background-position:-16px -432px;
+}
+.asterisk_orange {
+	background-position:-16px -448px;
+}
+.asterisk_yellow {
+	background-position:-16px -464px;
+}
+.attach {
+	background-position:-16px -480px;
+}
+.award_star_add {
+	background-position:-16px -496px;
+}
+.award_star_bronze_1 {
+	background-position:-32px 0px;
+}
+.award_star_bronze_2 {
+	background-position:-32px -16px;
+}
+.award_star_bronze_3 {
+	background-position:-32px -32px;
+}
+.award_star_delete {
+	background-position:-32px -48px;
+}
+.award_star_gold_1 {
+	background-position:-32px -64px;
+}
+.award_star_gold_2 {
+	background-position:-32px -80px;
+}
+.award_star_gold_3 {
+	background-position:-32px -96px;
+}
+.award_star_silver_1 {
+	background-position:-32px -112px;
+}
+.award_star_silver_2 {
+	background-position:-32px -128px;
+}
+.award_star_silver_3 {
+	background-position:-32px -144px;
+}
+.basket {
+	background-position:-32px -160px;
+}
+.basket_add {
+	background-position:-32px -176px;
+}
+.basket_delete {
+	background-position:-32px -192px;
+}
+.basket_edit {
+	background-position:-32px -208px;
+}
+.basket_error {
+	background-position:-32px -224px;
+}
+.basket_go {
+	background-position:-32px -240px;
+}
+.basket_put {
+	background-position:-32px -256px;
+}
+.basket_remove {
+	background-position:-32px -272px;
+}
+.bell {
+	background-position:-32px -288px;
+}
+.bell_add {
+	background-position:-32px -304px;
+}
+.bell_delete {
+	background-position:-32px -320px;
+}
+.bell_error {
+	background-position:-32px -336px;
+}
+.bell_go {
+	background-position:-32px -352px;
+}
+.bell_link {
+	background-position:-32px -368px;
+}
+.bin {
+	background-position:-32px -384px;
+}
+.bin_closed {
+	background-position:-32px -400px;
+}
+.bin_empty {
+	background-position:-32px -416px;
+}
+.bomb {
+	background-position:-32px -432px;
+}
+.book {
+	background-position:-32px -448px;
+}
+.book_add {
+	background-position:-32px -464px;
+}
+.book_addresses {
+	background-position:-32px -480px;
+}
+.book_delete {
+	background-position:-32px -496px;
+}
+.book_edit {
+	background-position:-48px 0px;
+}
+.book_error {
+	background-position:-48px -16px;
+}
+.book_go {
+	background-position:-48px -32px;
+}
+.book_key {
+	background-position:-48px -48px;
+}
+.book_link {
+	background-position:-48px -64px;
+}
+.book_next {
+	background-position:-48px -80px;
+}
+.book_open {
+	background-position:-48px -96px;
+}
+.book_previous {
+	background-position:-48px -112px;
+}
+.box {
+	background-position:-48px -128px;
+}
+.brick {
+	background-position:-48px -144px;
+}
+.brick_add {
+	background-position:-48px -160px;
+}
+.brick_delete {
+	background-position:-48px -176px;
+}
+.brick_edit {
+	background-position:-48px -192px;
+}
+.brick_error {
+	background-position:-48px -208px;
+}
+.brick_go {
+	background-position:-48px -224px;
+}
+.brick_link {
+	background-position:-48px -240px;
+}
+.bricks {
+	background-position:-48px -256px;
+}
+.briefcase {
+	background-position:-48px -272px;
+}
+.bug {
+	background-position:-48px -288px;
+}
+.bug_add {
+	background-position:-48px -304px;
+}
+.bug_delete {
+	background-position:-48px -320px;
+}
+.bug_edit {
+	background-position:-48px -336px;
+}
+.bug_error {
+	background-position:-48px -352px;
+}
+.bug_go {
+	background-position:-48px -368px;
+}
+.bug_link {
+	background-position:-48px -384px;
+}
+.building {
+	background-position:-48px -400px;
+}
+.building_add {
+	background-position:-48px -416px;
+}
+.building_delete {
+	background-position:-48px -432px;
+}
+.building_edit {
+	background-position:-48px -448px;
+}
+.building_error {
+	background-position:-48px -464px;
+}
+.building_go {
+	background-position:-48px -480px;
+}
+.building_key {
+	background-position:-48px -496px;
+}
+.building_link {
+	background-position:-64px 0px;
+}
+.bullet_add {
+	background-position:-64px -16px;
+}
+.bullet_arrow_bottom {
+	background-position:-64px -32px;
+}
+.bullet_arrow_down {
+	background-position:-64px -48px;
+}
+.bullet_arrow_top {
+	background-position:-64px -64px;
+}
+.bullet_arrow_up {
+	background-position:-64px -80px;
+}
+.bullet_black {
+	background-position:-64px -96px;
+}
+.bullet_blue {
+	background-position:-64px -112px;
+}
+.bullet_delete {
+	background-position:-64px -128px;
+}
+.bullet_disk {
+	background-position:-64px -144px;
+}
+.bullet_error {
+	background-position:-64px -160px;
+}
+.bullet_feed {
+	background-position:-64px -176px;
+}
+.bullet_go {
+	background-position:-64px -192px;
+}
+.bullet_green {
+	background-position:-64px -208px;
+}
+.bullet_key {
+	background-position:-64px -224px;
+}
+.bullet_orange {
+	background-position:-64px -240px;
+}
+.bullet_picture {
+	background-position:-64px -256px;
+}
+.bullet_pink {
+	background-position:-64px -272px;
+}
+.bullet_purple {
+	background-position:-64px -288px;
+}
+.bullet_red {
+	background-position:-64px -304px;
+}
+.bullet_star {
+	background-position:-64px -320px;
+}
+.bullet_toggle_minus {
+	background-position:-64px -336px;
+}
+.bullet_toggle_plus {
+	background-position:-64px -352px;
+}
+.bullet_white {
+	background-position:-64px -368px;
+}
+.bullet_wrench {
+	background-position:-64px -384px;
+}
+.bullet_yellow {
+	background-position:-64px -400px;
+}
+.cake {
+	background-position:-64px -416px;
+}
+.calculator {
+	background-position:-64px -432px;
+}
+.calculator_add {
+	background-position:-64px -448px;
+}
+.calculator_delete {
+	background-position:-64px -464px;
+}
+.calculator_edit {
+	background-position:-64px -480px;
+}
+.calculator_error {
+	background-position:-64px -496px;
+}
+.calculator_link {
+	background-position:-80px 0px;
+}
+.calendar {
+	background-position:-80px -16px;
+}
+.calendar_add {
+	background-position:-80px -32px;
+}
+.calendar_delete {
+	background-position:-80px -48px;
+}
+.calendar_edit {
+	background-position:-80px -64px;
+}
+.calendar_link {
+	background-position:-80px -80px;
+}
+.calendar_view_day {
+	background-position:-80px -96px;
+}
+.calendar_view_month {
+	background-position:-80px -112px;
+}
+.calendar_view_week {
+	background-position:-80px -128px;
+}
+.camera {
+	background-position:-80px -144px;
+}
+.camera_add {
+	background-position:-80px -160px;
+}
+.camera_delete {
+	background-position:-80px -176px;
+}
+.camera_edit {
+	background-position:-80px -192px;
+}
+.camera_error {
+	background-position:-80px -208px;
+}
+.camera_go {
+	background-position:-80px -224px;
+}
+.camera_link {
+	background-position:-80px -240px;
+}
+.camera_small {
+	background-position:-80px -256px;
+}
+.cancel {
+	background-position:-80px -272px;
+}
+.car {
+	background-position:-80px -288px;
+}
+.car_add {
+	background-position:-80px -304px;
+}
+.car_delete {
+	background-position:-80px -320px;
+}
+.cart {
+	background-position:-80px -336px;
+}
+.cart_add {
+	background-position:-80px -352px;
+}
+.cart_delete {
+	background-position:-80px -368px;
+}
+.cart_edit {
+	background-position:-80px -384px;
+}
+.cart_error {
+	background-position:-80px -400px;
+}
+.cart_go {
+	background-position:-80px -416px;
+}
+.cart_put {
+	background-position:-80px -432px;
+}
+.cart_remove {
+	background-position:-80px -448px;
+}
+.cd {
+	background-position:-80px -464px;
+}
+.cd_add {
+	background-position:-80px -480px;
+}
+.cd_burn {
+	background-position:-80px -496px;
+}
+.cd_delete {
+	background-position:-96px 0px;
+}
+.cd_edit {
+	background-position:-96px -16px;
+}
+.cd_eject {
+	background-position:-96px -32px;
+}
+.cd_go {
+	background-position:-96px -48px;
+}
+.chart_bar {
+	background-position:-96px -64px;
+}
+.chart_bar_add {
+	background-position:-96px -80px;
+}
+.chart_bar_delete {
+	background-position:-96px -96px;
+}
+.chart_bar_edit {
+	background-position:-96px -112px;
+}
+.chart_bar_error {
+	background-position:-96px -128px;
+}
+.chart_bar_link {
+	background-position:-96px -144px;
+}
+.chart_curve {
+	background-position:-96px -160px;
+}
+.chart_curve_add {
+	background-position:-96px -176px;
+}
+.chart_curve_delete {
+	background-position:-96px -192px;
+}
+.chart_curve_edit {
+	background-position:-96px -208px;
+}
+.chart_curve_error {
+	background-position:-96px -224px;
+}
+.chart_curve_go {
+	background-position:-96px -240px;
+}
+.chart_curve_link {
+	background-position:-96px -256px;
+}
+.chart_line {
+	background-position:-96px -272px;
+}
+.chart_line_add {
+	background-position:-96px -288px;
+}
+.chart_line_delete {
+	background-position:-96px -304px;
+}
+.chart_line_edit {
+	background-position:-96px -320px;
+}
+.chart_line_error {
+	background-position:-96px -336px;
+}
+.chart_line_link {
+	background-position:-96px -352px;
+}
+.chart_organisation {
+	background-position:-96px -368px;
+}
+.chart_organisation_add {
+	background-position:-96px -384px;
+}
+.chart_organisation_delete {
+	background-position:-96px -400px;
+}
+.chart_pie {
+	background-position:-96px -416px;
+}
+.chart_pie_add {
+	background-position:-96px -432px;
+}
+.chart_pie_delete {
+	background-position:-96px -448px;
+}
+.chart_pie_edit {
+	background-position:-96px -464px;
+}
+.chart_pie_error {
+	background-position:-96px -480px;
+}
+.chart_pie_link {
+	background-position:-96px -496px;
+}
+.clock {
+	background-position:-112px 0px;
+}
+.clock_add {
+	background-position:-112px -16px;
+}
+.clock_delete {
+	background-position:-112px -32px;
+}
+.clock_edit {
+	background-position:-112px -48px;
+}
+.clock_error {
+	background-position:-112px -64px;
+}
+.clock_go {
+	background-position:-112px -80px;
+}
+.clock_link {
+	background-position:-112px -96px;
+}
+.clock_pause {
+	background-position:-112px -112px;
+}
+.clock_play {
+	background-position:-112px -128px;
+}
+.clock_red {
+	background-position:-112px -144px;
+}
+.clock_stop {
+	background-position:-112px -160px;
+}
+.cog {
+	background-position:-112px -176px;
+}
+.cog_add {
+	background-position:-112px -192px;
+}
+.cog_delete {
+	background-position:-112px -208px;
+}
+.cog_edit {
+	background-position:-112px -224px;
+}
+.cog_error {
+	background-position:-112px -240px;
+}
+.cog_go {
+	background-position:-112px -256px;
+}
+.coins {
+	background-position:-112px -272px;
+}
+.coins_add {
+	background-position:-112px -288px;
+}
+.coins_delete {
+	background-position:-112px -304px;
+}
+.color_swatch {
+	background-position:-112px -320px;
+}
+.color_wheel {
+	background-position:-112px -336px;
+}
+.comment {
+	background-position:-112px -352px;
+}
+.comment_add {
+	background-position:-112px -368px;
+}
+.comment_delete {
+	background-position:-112px -384px;
+}
+.comment_edit {
+	background-position:-112px -400px;
+}
+.comments {
+	background-position:-112px -416px;
+}
+.comments_add {
+	background-position:-112px -432px;
+}
+.comments_delete {
+	background-position:-112px -448px;
+}
+.compress {
+	background-position:-112px -464px;
+}
+.computer {
+	background-position:-112px -480px;
+}
+.computer_add {
+	background-position:-112px -496px;
+}
+.computer_delete {
+	background-position:-128px 0px;
+}
+.computer_edit {
+	background-position:-128px -16px;
+}
+.computer_error {
+	background-position:-128px -32px;
+}
+.computer_go {
+	background-position:-128px -48px;
+}
+.computer_key {
+	background-position:-128px -64px;
+}
+.computer_link {
+	background-position:-128px -80px;
+}
+.connect {
+	background-position:-128px -96px;
+}
+.contrast {
+	background-position:-128px -112px;
+}
+.contrast_decrease {
+	background-position:-128px -128px;
+}
+.contrast_high {
+	background-position:-128px -144px;
+}
+.contrast_increase {
+	background-position:-128px -160px;
+}
+.contrast_low {
+	background-position:-128px -176px;
+}
+.control_eject {
+	background-position:-128px -192px;
+}
+.control_eject_blue {
+	background-position:-128px -208px;
+}
+.control_end {
+	background-position:-128px -224px;
+}
+.control_end_blue {
+	background-position:-128px -240px;
+}
+.control_equalizer {
+	background-position:-128px -256px;
+}
+.control_equalizer_blue {
+	background-position:-128px -272px;
+}
+.control_fastforward {
+	background-position:-128px -288px;
+}
+.control_fastforward_blue {
+	background-position:-128px -304px;
+}
+.control_pause {
+	background-position:-128px -320px;
+}
+.control_pause_blue {
+	background-position:-128px -336px;
+}
+.control_play {
+	background-position:-128px -352px;
+}
+.control_play_blue {
+	background-position:-128px -368px;
+}
+.control_repeat {
+	background-position:-128px -384px;
+}
+.control_repeat_blue {
+	background-position:-128px -400px;
+}
+.control_rewind {
+	background-position:-128px -416px;
+}
+.control_rewind_blue {
+	background-position:-128px -432px;
+}
+.control_start {
+	background-position:-128px -448px;
+}
+.control_start_blue {
+	background-position:-128px -464px;
+}
+.control_stop {
+	background-position:-128px -480px;
+}
+.control_stop_blue {
+	background-position:-128px -496px;
+}
+.controller {
+	background-position:-144px 0px;
+}
+.controller_add {
+	background-position:-144px -16px;
+}
+.controller_delete {
+	background-position:-144px -32px;
+}
+.controller_error {
+	background-position:-144px -48px;
+}
+.creditcards {
+	background-position:-144px -64px;
+}
+.cross {
+	background-position:-144px -80px;
+}
+.css {
+	background-position:-144px -96px;
+}
+.css_add {
+	background-position:-144px -112px;
+}
+.css_delete {
+	background-position:-144px -128px;
+}
+.css_go {
+	background-position:-144px -144px;
+}
+.css_valid {
+	background-position:-144px -160px;
+}
+.cup {
+	background-position:-144px -176px;
+}
+.cup_add {
+	background-position:-144px -192px;
+}
+.cup_delete {
+	background-position:-144px -208px;
+}
+.cup_edit {
+	background-position:-144px -224px;
+}
+.cup_error {
+	background-position:-144px -240px;
+}
+.cup_go {
+	background-position:-144px -256px;
+}
+.cup_key {
+	background-position:-144px -272px;
+}
+.cup_link {
+	background-position:-144px -288px;
+}
+.cursor {
+	background-position:-144px -304px;
+}
+.cut {
+	background-position:-144px -320px;
+}
+.cut_red {
+	background-position:-144px -336px;
+}
+.database {
+	background-position:-144px -352px;
+}
+.database_add {
+	background-position:-144px -368px;
+}
+.database_connect {
+	background-position:-144px -384px;
+}
+.database_delete {
+	background-position:-144px -400px;
+}
+.database_edit {
+	background-position:-144px -416px;
+}
+.database_error {
+	background-position:-144px -432px;
+}
+.database_gear {
+	background-position:-144px -448px;
+}
+.database_go {
+	background-position:-144px -464px;
+}
+.database_key {
+	background-position:-144px -480px;
+}
+.database_lightning {
+	background-position:-144px -496px;
+}
+.database_link {
+	background-position:-160px 0px;
+}
+.database_refresh {
+	background-position:-160px -16px;
+}
+.database_save {
+	background-position:-160px -32px;
+}
+.database_table {
+	background-position:-160px -48px;
+}
+.date {
+	background-position:-160px -64px;
+}
+.date_add {
+	background-position:-160px -80px;
+}
+.date_delete {
+	background-position:-160px -96px;
+}
+.date_edit {
+	background-position:-160px -112px;
+}
+.date_error {
+	background-position:-160px -128px;
+}
+.date_go {
+	background-position:-160px -144px;
+}
+.date_link {
+	background-position:-160px -160px;
+}
+.date_magnify {
+	background-position:-160px -176px;
+}
+.date_next {
+	background-position:-160px -192px;
+}
+.date_previous {
+	background-position:-160px -208px;
+}
+.delete {
+	background-position:-160px -224px;
+}
+.disconnect {
+	background-position:-160px -240px;
+}
+.disk {
+	background-position:-160px -256px;
+}
+.disk_multiple {
+	background-position:-160px -272px;
+}
+.door {
+	background-position:-160px -288px;
+}
+.door_in {
+	background-position:-160px -304px;
+}
+.door_open {
+	background-position:-160px -320px;
+}
+.door_out {
+	background-position:-160px -336px;
+}
+.drink {
+	background-position:-160px -352px;
+}
+.drink_empty {
+	background-position:-160px -368px;
+}
+.drive {
+	background-position:-160px -384px;
+}
+.drive_add {
+	background-position:-160px -400px;
+}
+.drive_burn {
+	background-position:-160px -416px;
+}
+.drive_cd {
+	background-position:-160px -432px;
+}
+.drive_cd_empty {
+	background-position:-160px -448px;
+}
+.drive_delete {
+	background-position:-160px -464px;
+}
+.drive_disk {
+	background-position:-160px -480px;
+}
+.drive_edit {
+	background-position:-160px -496px;
+}
+.drive_error {
+	background-position:-176px 0px;
+}
+.drive_go {
+	background-position:-176px -16px;
+}
+.drive_key {
+	background-position:-176px -32px;
+}
+.drive_link {
+	background-position:-176px -48px;
+}
+.drive_magnify {
+	background-position:-176px -64px;
+}
+.drive_network {
+	background-position:-176px -80px;
+}
+.drive_rename {
+	background-position:-176px -96px;
+}
+.drive_user {
+	background-position:-176px -112px;
+}
+.drive_web {
+	background-position:-176px -128px;
+}
+.dvd {
+	background-position:-176px -144px;
+}
+.dvd_add {
+	background-position:-176px -160px;
+}
+.dvd_delete {
+	background-position:-176px -176px;
+}
+.dvd_edit {
+	background-position:-176px -192px;
+}
+.dvd_error {
+	background-position:-176px -208px;
+}
+.dvd_go {
+	background-position:-176px -224px;
+}
+.dvd_key {
+	background-position:-176px -240px;
+}
+.dvd_link {
+	background-position:-176px -256px;
+}
+.email {
+	background-position:-176px -272px;
+}
+.email_add {
+	background-position:-176px -288px;
+}
+.email_attach {
+	background-position:-176px -304px;
+}
+.email_delete {
+	background-position:-176px -320px;
+}
+.email_edit {
+	background-position:-176px -336px;
+}
+.email_error {
+	background-position:-176px -352px;
+}
+.email_go {
+	background-position:-176px -368px;
+}
+.email_link {
+	background-position:-176px -384px;
+}
+.email_open {
+	background-position:-176px -400px;
+}
+.email_open_image {
+	background-position:-176px -416px;
+}
+.emoticon_evilgrin {
+	background-position:-176px -432px;
+}
+.emoticon_grin {
+	background-position:-176px -448px;
+}
+.emoticon_happy {
+	background-position:-176px -464px;
+}
+.emoticon_smile {
+	background-position:-176px -480px;
+}
+.emoticon_surprised {
+	background-position:-176px -496px;
+}
+.emoticon_tongue {
+	background-position:-192px 0px;
+}
+.emoticon_unhappy {
+	background-position:-192px -16px;
+}
+.emoticon_waii {
+	background-position:-192px -32px;
+}
+.emoticon_wink {
+	background-position:-192px -48px;
+}
+.error {
+	background-position:-192px -64px;
+}
+.error_add {
+	background-position:-192px -80px;
+}
+.error_delete {
+	background-position:-192px -96px;
+}
+.error_go {
+	background-position:-192px -112px;
+}
+.exclamation {
+	background-position:-192px -128px;
+}
+.eye {
+	background-position:-192px -144px;
+}
+.feed {
+	background-position:-192px -160px;
+}
+.feed_add {
+	background-position:-192px -176px;
+}
+.feed_delete {
+	background-position:-192px -192px;
+}
+.feed_disk {
+	background-position:-192px -208px;
+}
+.feed_edit {
+	background-position:-192px -224px;
+}
+.feed_error {
+	background-position:-192px -240px;
+}
+.feed_go {
+	background-position:-192px -256px;
+}
+.feed_key {
+	background-position:-192px -272px;
+}
+.feed_link {
+	background-position:-192px -288px;
+}
+.feed_magnify {
+	background-position:-192px -304px;
+}
+.female {
+	background-position:-192px -320px;
+}
+.film {
+	background-position:-192px -336px;
+}
+.film_add {
+	background-position:-192px -352px;
+}
+.film_delete {
+	background-position:-192px -368px;
+}
+.film_edit {
+	background-position:-192px -384px;
+}
+.film_error {
+	background-position:-192px -400px;
+}
+.film_go {
+	background-position:-192px -416px;
+}
+.film_key {
+	background-position:-192px -432px;
+}
+.film_link {
+	background-position:-192px -448px;
+}
+.film_save {
+	background-position:-192px -464px;
+}
+.find {
+	background-position:-192px -480px;
+}
+.flag_blue {
+	background-position:-192px -496px;
+}
+.flag_green {
+	background-position:-208px 0px;
+}
+.flag_orange {
+	background-position:-208px -16px;
+}
+.flag_pink {
+	background-position:-208px -32px;
+}
+.flag_purple {
+	background-position:-208px -48px;
+}
+.flag_red {
+	background-position:-208px -64px;
+}
+.flag_yellow {
+	background-position:-208px -80px;
+}
+.folder {
+	background-position:-208px -96px;
+}
+.folder_add {
+	background-position:-208px -112px;
+}
+.folder_bell {
+	background-position:-208px -128px;
+}
+.folder_brick {
+	background-position:-208px -144px;
+}
+.folder_bug {
+	background-position:-208px -160px;
+}
+.folder_camera {
+	background-position:-208px -176px;
+}
+.folder_database {
+	background-position:-208px -192px;
+}
+.folder_delete {
+	background-position:-208px -208px;
+}
+.folder_edit {
+	background-position:-208px -224px;
+}
+.folder_error {
+	background-position:-208px -240px;
+}
+.folder_explore {
+	background-position:-208px -256px;
+}
+.folder_feed {
+	background-position:-208px -272px;
+}
+.folder_find {
+	background-position:-208px -288px;
+}
+.folder_go {
+	background-position:-208px -304px;
+}
+.folder_heart {
+	background-position:-208px -320px;
+}
+.folder_image {
+	background-position:-208px -336px;
+}
+.folder_key {
+	background-position:-208px -352px;
+}
+.folder_lightbulb {
+	background-position:-208px -368px;
+}
+.folder_link {
+	background-position:-208px -384px;
+}
+.folder_magnify {
+	background-position:-208px -400px;
+}
+.folder_page {
+	background-position:-208px -416px;
+}
+.folder_page_white {
+	background-position:-208px -432px;
+}
+.folder_palette {
+	background-position:-208px -448px;
+}
+.folder_picture {
+	background-position:-208px -464px;
+}
+.folder_star {
+	background-position:-208px -480px;
+}
+.folder_table {
+	background-position:-208px -496px;
+}
+.folder_user {
+	background-position:-224px 0px;
+}
+.folder_wrench {
+	background-position:-224px -16px;
+}
+.font {
+	background-position:-224px -32px;
+}
+.font_add {
+	background-position:-224px -48px;
+}
+.font_delete {
+	background-position:-224px -64px;
+}
+.font_go {
+	background-position:-224px -80px;
+}
+.group {
+	background-position:-224px -96px;
+}
+.group_add {
+	background-position:-224px -112px;
+}
+.group_delete {
+	background-position:-224px -128px;
+}
+.group_edit {
+	background-position:-224px -144px;
+}
+.group_error {
+	background-position:-224px -160px;
+}
+.group_gear {
+	background-position:-224px -176px;
+}
+.group_go {
+	background-position:-224px -192px;
+}
+.group_key {
+	background-position:-224px -208px;
+}
+.group_link {
+	background-position:-224px -224px;
+}
+.heart {
+	background-position:-224px -240px;
+}
+.heart_add {
+	background-position:-224px -256px;
+}
+.heart_delete {
+	background-position:-224px -272px;
+}
+.help {
+	background-position:-224px -288px;
+}
+.hourglass {
+	background-position:-224px -304px;
+}
+.hourglass_add {
+	background-position:-224px -320px;
+}
+.hourglass_delete {
+	background-position:-224px -336px;
+}
+.hourglass_go {
+	background-position:-224px -352px;
+}
+.hourglass_link {
+	background-position:-224px -368px;
+}
+.house {
+	background-position:-224px -384px;
+}
+.house_go {
+	background-position:-224px -400px;
+}
+.house_link {
+	background-position:-224px -416px;
+}
+.html {
+	background-position:-224px -432px;
+}
+.html_add {
+	background-position:-224px -448px;
+}
+.html_delete {
+	background-position:-224px -464px;
+}
+.html_go {
+	background-position:-224px -480px;
+}
+.html_valid {
+	background-position:-224px -496px;
+}
+.image {
+	background-position:-240px 0px;
+}
+.image_add {
+	background-position:-240px -16px;
+}
+.image_delete {
+	background-position:-240px -32px;
+}
+.image_edit {
+	background-position:-240px -48px;
+}
+.image_link {
+	background-position:-240px -64px;
+}
+.images {
+	background-position:-240px -80px;
+}
+.information {
+	background-position:-240px -96px;
+}
+.ipod {
+	background-position:-240px -112px;
+}
+.ipod_cast {
+	background-position:-240px -128px;
+}
+.ipod_cast_add {
+	background-position:-240px -144px;
+}
+.ipod_cast_delete {
+	background-position:-240px -160px;
+}
+.ipod_sound {
+	background-position:-240px -176px;
+}
+.joystick {
+	background-position:-240px -192px;
+}
+.joystick_add {
+	background-position:-240px -208px;
+}
+.joystick_delete {
+	background-position:-240px -224px;
+}
+.joystick_error {
+	background-position:-240px -240px;
+}
+.key {
+	background-position:-240px -256px;
+}
+.key_add {
+	background-position:-240px -272px;
+}
+.key_delete {
+	background-position:-240px -288px;
+}
+.key_go {
+	background-position:-240px -304px;
+}
+.keyboard {
+	background-position:-240px -320px;
+}
+.keyboard_add {
+	background-position:-240px -336px;
+}
+.keyboard_delete {
+	background-position:-240px -352px;
+}
+.keyboard_magnify {
+	background-position:-240px -368px;
+}
+.layers {
+	background-position:-240px -384px;
+}
+.layout {
+	background-position:-240px -400px;
+}
+.layout_add {
+	background-position:-240px -416px;
+}
+.layout_content {
+	background-position:-240px -432px;
+}
+.layout_delete {
+	background-position:-240px -448px;
+}
+.layout_edit {
+	background-position:-240px -464px;
+}
+.layout_error {
+	background-position:-240px -480px;
+}
+.layout_header {
+	background-position:-240px -496px;
+}
+.layout_link {
+	background-position:-256px 0px;
+}
+.layout_sidebar {
+	background-position:-256px -16px;
+}
+.lightbulb {
+	background-position:-256px -32px;
+}
+.lightbulb_add {
+	background-position:-256px -48px;
+}
+.lightbulb_delete {
+	background-position:-256px -64px;
+}
+.lightbulb_off {
+	background-position:-256px -80px;
+}
+.lightning {
+	background-position:-256px -96px;
+}
+.lightning_add {
+	background-position:-256px -112px;
+}
+.lightning_delete {
+	background-position:-256px -128px;
+}
+.lightning_go {
+	background-position:-256px -144px;
+}
+.link {
+	background-position:-256px -160px;
+}
+.link_add {
+	background-position:-256px -176px;
+}
+.link_break {
+	background-position:-256px -192px;
+}
+.link_delete {
+	background-position:-256px -208px;
+}
+.link_edit {
+	background-position:-256px -224px;
+}
+.link_error {
+	background-position:-256px -240px;
+}
+.link_go {
+	background-position:-256px -256px;
+}
+.lock {
+	background-position:-256px -272px;
+}
+.lock_add {
+	background-position:-256px -288px;
+}
+.lock_break {
+	background-position:-256px -304px;
+}
+.lock_delete {
+	background-position:-256px -320px;
+}
+.lock_edit {
+	background-position:-256px -336px;
+}
+.lock_go {
+	background-position:-256px -352px;
+}
+.lock_open {
+	background-position:-256px -368px;
+}
+.lorry {
+	background-position:-256px -384px;
+}
+.lorry_add {
+	background-position:-256px -400px;
+}
+.lorry_delete {
+	background-position:-256px -416px;
+}
+.lorry_error {
+	background-position:-256px -432px;
+}
+.lorry_flatbed {
+	background-position:-256px -448px;
+}
+.lorry_go {
+	background-position:-256px -464px;
+}
+.lorry_link {
+	background-position:-256px -480px;
+}
+.magnifier {
+	background-position:-256px -496px;
+}
+.magnifier_zoom_in {
+	background-position:-272px 0px;
+}
+.magnifier_zoom_out {
+	background-position:-272px -16px;
+}
+.male {
+	background-position:-272px -32px;
+}
+.map {
+	background-position:-272px -48px;
+}
+.map_add {
+	background-position:-272px -64px;
+}
+.map_delete {
+	background-position:-272px -80px;
+}
+.map_edit {
+	background-position:-272px -96px;
+}
+.map_go {
+	background-position:-272px -112px;
+}
+.map_magnify {
+	background-position:-272px -128px;
+}
+.medal_bronze_1 {
+	background-position:-272px -144px;
+}
+.medal_bronze_2 {
+	background-position:-272px -160px;
+}
+.medal_bronze_3 {
+	background-position:-272px -176px;
+}
+.medal_bronze_add {
+	background-position:-272px -192px;
+}
+.medal_bronze_delete {
+	background-position:-272px -208px;
+}
+.medal_gold_1 {
+	background-position:-272px -224px;
+}
+.medal_gold_2 {
+	background-position:-272px -240px;
+}
+.medal_gold_3 {
+	background-position:-272px -256px;
+}
+.medal_gold_add {
+	background-position:-272px -272px;
+}
+.medal_gold_delete {
+	background-position:-272px -288px;
+}
+.medal_silver_1 {
+	background-position:-272px -304px;
+}
+.medal_silver_2 {
+	background-position:-272px -320px;
+}
+.medal_silver_3 {
+	background-position:-272px -336px;
+}
+.medal_silver_add {
+	background-position:-272px -352px;
+}
+.medal_silver_delete {
+	background-position:-272px -368px;
+}
+.money {
+	background-position:-272px -384px;
+}
+.money_add {
+	background-position:-272px -400px;
+}
+.money_delete {
+	background-position:-272px -416px;
+}
+.money_dollar {
+	background-position:-272px -432px;
+}
+.money_euro {
+	background-position:-272px -448px;
+}
+.money_pound {
+	background-position:-272px -464px;
+}
+.money_yen {
+	background-position:-272px -480px;
+}
+.monitor {
+	background-position:-272px -496px;
+}
+.monitor_add {
+	background-position:-288px 0px;
+}
+.monitor_delete {
+	background-position:-288px -16px;
+}
+.monitor_edit {
+	background-position:-288px -32px;
+}
+.monitor_error {
+	background-position:-288px -48px;
+}
+.monitor_go {
+	background-position:-288px -64px;
+}
+.monitor_lightning {
+	background-position:-288px -80px;
+}
+.monitor_link {
+	background-position:-288px -96px;
+}
+.mouse {
+	background-position:-288px -112px;
+}
+.mouse_add {
+	background-position:-288px -128px;
+}
+.mouse_delete {
+	background-position:-288px -144px;
+}
+.mouse_error {
+	background-position:-288px -160px;
+}
+.music {
+	background-position:-288px -176px;
+}
+.new {
+	background-position:-288px -192px;
+}
+.newspaper {
+	background-position:-288px -208px;
+}
+.newspaper_add {
+	background-position:-288px -224px;
+}
+.newspaper_delete {
+	background-position:-288px -240px;
+}
+.newspaper_go {
+	background-position:-288px -256px;
+}
+.newspaper_link {
+	background-position:-288px -272px;
+}
+.note {
+	background-position:-288px -288px;
+}
+.note_add {
+	background-position:-288px -304px;
+}
+.note_delete {
+	background-position:-288px -320px;
+}
+.note_edit {
+	background-position:-288px -336px;
+}
+.note_error {
+	background-position:-288px -352px;
+}
+.note_go {
+	background-position:-288px -368px;
+}
+.overlays {
+	background-position:-288px -384px;
+}
+.package {
+	background-position:-288px -400px;
+}
+.package_add {
+	background-position:-288px -416px;
+}
+.package_delete {
+	background-position:-288px -432px;
+}
+.package_go {
+	background-position:-288px -448px;
+}
+.package_green {
+	background-position:-288px -464px;
+}
+.package_link {
+	background-position:-288px -480px;
+}
+.page {
+	background-position:-288px -496px;
+}
+.page_add {
+	background-position:-304px 0px;
+}
+.page_attach {
+	background-position:-304px -16px;
+}
+.page_code {
+	background-position:-304px -32px;
+}
+.page_copy {
+	background-position:-304px -48px;
+}
+.page_delete {
+	background-position:-304px -64px;
+}
+.page_edit {
+	background-position:-304px -80px;
+}
+.page_error {
+	background-position:-304px -96px;
+}
+.page_excel {
+	background-position:-304px -112px;
+}
+.page_find {
+	background-position:-304px -128px;
+}
+.page_gear {
+	background-position:-304px -144px;
+}
+.page_go {
+	background-position:-304px -160px;
+}
+.page_green {
+	background-position:-304px -176px;
+}
+.page_key {
+	background-position:-304px -192px;
+}
+.page_lightning {
+	background-position:-304px -208px;
+}
+.page_link {
+	background-position:-304px -224px;
+}
+.page_paintbrush {
+	background-position:-304px -240px;
+}
+.page_paste {
+	background-position:-304px -256px;
+}
+.page_red {
+	background-position:-304px -272px;
+}
+.page_refresh {
+	background-position:-304px -288px;
+}
+.page_save {
+	background-position:-304px -304px;
+}
+.page_white {
+	background-position:-304px -320px;
+}
+.page_white_acrobat {
+	background-position:-304px -336px;
+}
+.page_white_actionscript {
+	background-position:-304px -352px;
+}
+.page_white_add {
+	background-position:-304px -368px;
+}
+.page_white_c {
+	background-position:-304px -384px;
+}
+.page_white_camera {
+	background-position:-304px -400px;
+}
+.page_white_cd {
+	background-position:-304px -416px;
+}
+.page_white_code {
+	background-position:-304px -432px;
+}
+.page_white_code_red {
+	background-position:-304px -448px;
+}
+.page_white_coldfusion {
+	background-position:-304px -464px;
+}
+.page_white_compressed {
+	background-position:-304px -480px;
+}
+.page_white_copy {
+	background-position:-304px -496px;
+}
+.page_white_cplusplus {
+	background-position:-320px 0px;
+}
+.page_white_csharp {
+	background-position:-320px -16px;
+}
+.page_white_cup {
+	background-position:-320px -32px;
+}
+.page_white_database {
+	background-position:-320px -48px;
+}
+.page_white_delete {
+	background-position:-320px -64px;
+}
+.page_white_dvd {
+	background-position:-320px -80px;
+}
+.page_white_edit {
+	background-position:-320px -96px;
+}
+.page_white_error {
+	background-position:-320px -112px;
+}
+.page_white_excel {
+	background-position:-320px -128px;
+}
+.page_white_find {
+	background-position:-320px -144px;
+}
+.page_white_flash {
+	background-position:-320px -160px;
+}
+.page_white_freehand {
+	background-position:-320px -176px;
+}
+.page_white_gear {
+	background-position:-320px -192px;
+}
+.page_white_get {
+	background-position:-320px -208px;
+}
+.page_white_go {
+	background-position:-320px -224px;
+}
+.page_white_h {
+	background-position:-320px -240px;
+}
+.page_white_horizontal {
+	background-position:-320px -256px;
+}
+.page_white_key {
+	background-position:-320px -272px;
+}
+.page_white_lightning {
+	background-position:-320px -288px;
+}
+.page_white_link {
+	background-position:-320px -304px;
+}
+.page_white_magnify {
+	background-position:-320px -320px;
+}
+.page_white_medal {
+	background-position:-320px -336px;
+}
+.page_white_office {
+	background-position:-320px -352px;
+}
+.page_white_paint {
+	background-position:-320px -368px;
+}
+.page_white_paintbrush {
+	background-position:-320px -384px;
+}
+.page_white_paste {
+	background-position:-320px -400px;
+}
+.page_white_php {
+	background-position:-320px -416px;
+}
+.page_white_picture {
+	background-position:-320px -432px;
+}
+.page_white_powerpoint {
+	background-position:-320px -448px;
+}
+.page_white_put {
+	background-position:-320px -464px;
+}
+.page_white_ruby {
+	background-position:-320px -480px;
+}
+.page_white_stack {
+	background-position:-320px -496px;
+}
+.page_white_star {
+	background-position:-336px 0px;
+}
+.page_white_swoosh {
+	background-position:-336px -16px;
+}
+.page_white_text {
+	background-position:-336px -32px;
+}
+.page_white_text_width {
+	background-position:-336px -48px;
+}
+.page_white_tux {
+	background-position:-336px -64px;
+}
+.page_white_vector {
+	background-position:-336px -80px;
+}
+.page_white_visualstudio {
+	background-position:-336px -96px;
+}
+.page_white_width {
+	background-position:-336px -112px;
+}
+.page_white_word {
+	background-position:-336px -128px;
+}
+.page_white_world {
+	background-position:-336px -144px;
+}
+.page_white_wrench {
+	background-position:-336px -160px;
+}
+.page_white_zip {
+	background-position:-336px -176px;
+}
+.page_word {
+	background-position:-336px -192px;
+}
+.page_world {
+	background-position:-336px -208px;
+}
+.paintbrush {
+	background-position:-336px -224px;
+}
+.paintcan {
+	background-position:-336px -240px;
+}
+.palette {
+	background-position:-336px -256px;
+}
+.paste_plain {
+	background-position:-336px -272px;
+}
+.paste_word {
+	background-position:-336px -288px;
+}
+.pencil {
+	background-position:-336px -304px;
+}
+.pencil_add {
+	background-position:-336px -320px;
+}
+.pencil_delete {
+	background-position:-336px -336px;
+}
+.pencil_go {
+	background-position:-336px -352px;
+}
+.phone {
+	background-position:-336px -368px;
+}
+.phone_add {
+	background-position:-336px -384px;
+}
+.phone_delete {
+	background-position:-336px -400px;
+}
+.phone_sound {
+	background-position:-336px -416px;
+}
+.photo {
+	background-position:-336px -432px;
+}
+.photo_add {
+	background-position:-336px -448px;
+}
+.photo_delete {
+	background-position:-336px -464px;
+}
+.photo_link {
+	background-position:-336px -480px;
+}
+.photos {
+	background-position:-336px -496px;
+}
+.picture {
+	background-position:-352px 0px;
+}
+.picture_add {
+	background-position:-352px -16px;
+}
+.picture_delete {
+	background-position:-352px -32px;
+}
+.picture_edit {
+	background-position:-352px -48px;
+}
+.picture_empty {
+	background-position:-352px -64px;
+}
+.picture_error {
+	background-position:-352px -80px;
+}
+.picture_go {
+	background-position:-352px -96px;
+}
+.picture_key {
+	background-position:-352px -112px;
+}
+.picture_link {
+	background-position:-352px -128px;
+}
+.picture_save {
+	background-position:-352px -144px;
+}
+.pictures {
+	background-position:-352px -160px;
+}
+.pilcrow {
+	background-position:-352px -176px;
+}
+.pill {
+	background-position:-352px -192px;
+}
+.pill_add {
+	background-position:-352px -208px;
+}
+.pill_delete {
+	background-position:-352px -224px;
+}
+.pill_go {
+	background-position:-352px -240px;
+}
+.plugin {
+	background-position:-352px -256px;
+}
+.plugin_add {
+	background-position:-352px -272px;
+}
+.plugin_delete {
+	background-position:-352px -288px;
+}
+.plugin_disabled {
+	background-position:-352px -304px;
+}
+.plugin_edit {
+	background-position:-352px -320px;
+}
+.plugin_error {
+	background-position:-352px -336px;
+}
+.plugin_go {
+	background-position:-352px -352px;
+}
+.plugin_link {
+	background-position:-352px -368px;
+}
+.printer {
+	background-position:-352px -384px;
+}
+.printer_add {
+	background-position:-352px -400px;
+}
+.printer_delete {
+	background-position:-352px -416px;
+}
+.printer_empty {
+	background-position:-352px -432px;
+}
+.printer_error {
+	background-position:-352px -448px;
+}
+.rainbow {
+	background-position:-352px -464px;
+}
+.report {
+	background-position:-352px -480px;
+}
+.report_add {
+	background-position:-352px -496px;
+}
+.report_delete {
+	background-position:-368px 0px;
+}
+.report_disk {
+	background-position:-368px -16px;
+}
+.report_edit {
+	background-position:-368px -32px;
+}
+.report_go {
+	background-position:-368px -48px;
+}
+.report_key {
+	background-position:-368px -64px;
+}
+.report_link {
+	background-position:-368px -80px;
+}
+.report_magnify {
+	background-position:-368px -96px;
+}
+.report_picture {
+	background-position:-368px -112px;
+}
+.report_user {
+	background-position:-368px -128px;
+}
+.report_word {
+	background-position:-368px -144px;
+}
+.resultset_first {
+	background-position:-368px -160px;
+}
+.resultset_last {
+	background-position:-368px -176px;
+}
+.resultset_next {
+	background-position:-368px -192px;
+}
+.resultset_previous {
+	background-position:-368px -208px;
+}
+.rosette {
+	background-position:-368px -224px;
+}
+.rss {
+	background-position:-368px -240px;
+}
+.rss_add {
+	background-position:-368px -256px;
+}
+.rss_delete {
+	background-position:-368px -272px;
+}
+.rss_go {
+	background-position:-368px -288px;
+}
+.rss_valid {
+	background-position:-368px -304px;
+}
+.ruby {
+	background-position:-368px -320px;
+}
+.ruby_add {
+	background-position:-368px -336px;
+}
+.ruby_delete {
+	background-position:-368px -352px;
+}
+.ruby_gear {
+	background-position:-368px -368px;
+}
+.ruby_get {
+	background-position:-368px -384px;
+}
+.ruby_go {
+	background-position:-368px -400px;
+}
+.ruby_key {
+	background-position:-368px -416px;
+}
+.ruby_link {
+	background-position:-368px -432px;
+}
+.ruby_put {
+	background-position:-368px -448px;
+}
+.script {
+	background-position:-368px -464px;
+}
+.script_add {
+	background-position:-368px -480px;
+}
+.script_code {
+	background-position:-368px -496px;
+}
+.script_code_red {
+	background-position:-384px 0px;
+}
+.script_delete {
+	background-position:-384px -16px;
+}
+.script_edit {
+	background-position:-384px -32px;
+}
+.script_error {
+	background-position:-384px -48px;
+}
+.script_gear {
+	background-position:-384px -64px;
+}
+.script_go {
+	background-position:-384px -80px;
+}
+.script_key {
+	background-position:-384px -96px;
+}
+.script_lightning {
+	background-position:-384px -112px;
+}
+.script_link {
+	background-position:-384px -128px;
+}
+.script_palette {
+	background-position:-384px -144px;
+}
+.script_save {
+	background-position:-384px -160px;
+}
+.server {
+	background-position:-384px -176px;
+}
+.server_add {
+	background-position:-384px -192px;
+}
+.server_chart {
+	background-position:-384px -208px;
+}
+.server_compressed {
+	background-position:-384px -224px;
+}
+.server_connect {
+	background-position:-384px -240px;
+}
+.server_database {
+	background-position:-384px -256px;
+}
+.server_delete {
+	background-position:-384px -272px;
+}
+.server_edit {
+	background-position:-384px -288px;
+}
+.server_error {
+	background-position:-384px -304px;
+}
+.server_go {
+	background-position:-384px -320px;
+}
+.server_key {
+	background-position:-384px -336px;
+}
+.server_lightning {
+	background-position:-384px -352px;
+}
+.server_link {
+	background-position:-384px -368px;
+}
+.server_uncompressed {
+	background-position:-384px -384px;
+}
+.shading {
+	background-position:-384px -400px;
+}
+.shape_align_bottom {
+	background-position:-384px -416px;
+}
+.shape_align_center {
+	background-position:-384px -432px;
+}
+.shape_align_left {
+	background-position:-384px -448px;
+}
+.shape_align_middle {
+	background-position:-384px -464px;
+}
+.shape_align_right {
+	background-position:-384px -480px;
+}
+.shape_align_top {
+	background-position:-384px -496px;
+}
+.shape_flip_horizontal {
+	background-position:-400px 0px;
+}
+.shape_flip_vertical {
+	background-position:-400px -16px;
+}
+.shape_group {
+	background-position:-400px -32px;
+}
+.shape_handles {
+	background-position:-400px -48px;
+}
+.shape_move_back {
+	background-position:-400px -64px;
+}
+.shape_move_backwards {
+	background-position:-400px -80px;
+}
+.shape_move_forwards {
+	background-position:-400px -96px;
+}
+.shape_move_front {
+	background-position:-400px -112px;
+}
+.shape_rotate_anticlockwise {
+	background-position:-400px -128px;
+}
+.shape_rotate_clockwise {
+	background-position:-400px -144px;
+}
+.shape_square {
+	background-position:-400px -160px;
+}
+.shape_square_add {
+	background-position:-400px -176px;
+}
+.shape_square_delete {
+	background-position:-400px -192px;
+}
+.shape_square_edit {
+	background-position:-400px -208px;
+}
+.shape_square_error {
+	background-position:-400px -224px;
+}
+.shape_square_go {
+	background-position:-400px -240px;
+}
+.shape_square_key {
+	background-position:-400px -256px;
+}
+.shape_square_link {
+	background-position:-400px -272px;
+}
+.shape_ungroup {
+	background-position:-400px -288px;
+}
+.shield {
+	background-position:-400px -304px;
+}
+.shield_add {
+	background-position:-400px -320px;
+}
+.shield_delete {
+	background-position:-400px -336px;
+}
+.shield_go {
+	background-position:-400px -352px;
+}
+.sitemap {
+	background-position:-400px -368px;
+}
+.sitemap_color {
+	background-position:-400px -384px;
+}
+.sound {
+	background-position:-400px -400px;
+}
+.sound_add {
+	background-position:-400px -416px;
+}
+.sound_delete {
+	background-position:-400px -432px;
+}
+.sound_low {
+	background-position:-400px -448px;
+}
+.sound_mute {
+	background-position:-400px -464px;
+}
+.sound_none {
+	background-position:-400px -480px;
+}
+.spellcheck {
+	background-position:-400px -496px;
+}
+.sport_8ball {
+	background-position:-416px 0px;
+}
+.sport_basketball {
+	background-position:-416px -16px;
+}
+.sport_football {
+	background-position:-416px -32px;
+}
+.sport_golf {
+	background-position:-416px -48px;
+}
+.sport_raquet {
+	background-position:-416px -64px;
+}
+.sport_shuttlecock {
+	background-position:-416px -80px;
+}
+.sport_soccer {
+	background-position:-416px -96px;
+}
+.sport_tennis {
+	background-position:-416px -112px;
+}
+.star {
+	background-position:-416px -128px;
+}
+.status_away {
+	background-position:-416px -144px;
+}
+.status_busy {
+	background-position:-416px -160px;
+}
+.status_offline {
+	background-position:-416px -176px;
+}
+.status_online {
+	background-position:-416px -192px;
+}
+.stop {
+	background-position:-416px -208px;
+}
+.style {
+	background-position:-416px -224px;
+}
+.style_add {
+	background-position:-416px -240px;
+}
+.style_delete {
+	background-position:-416px -256px;
+}
+.style_edit {
+	background-position:-416px -272px;
+}
+.style_go {
+	background-position:-416px -288px;
+}
+.sum {
+	background-position:-416px -304px;
+}
+.tab {
+	background-position:-416px -320px;
+}
+.tab_add {
+	background-position:-416px -336px;
+}
+.tab_delete {
+	background-position:-416px -352px;
+}
+.tab_edit {
+	background-position:-416px -368px;
+}
+.tab_go {
+	background-position:-416px -384px;
+}
+.table {
+	background-position:-416px -400px;
+}
+.table_add {
+	background-position:-416px -416px;
+}
+.table_delete {
+	background-position:-416px -432px;
+}
+.table_edit {
+	background-position:-416px -448px;
+}
+.table_error {
+	background-position:-416px -464px;
+}
+.table_gear {
+	background-position:-416px -480px;
+}
+.table_go {
+	background-position:-416px -496px;
+}
+.table_key {
+	background-position:-432px 0px;
+}
+.table_lightning {
+	background-position:-432px -16px;
+}
+.table_link {
+	background-position:-432px -32px;
+}
+.table_multiple {
+	background-position:-432px -48px;
+}
+.table_refresh {
+	background-position:-432px -64px;
+}
+.table_relationship {
+	background-position:-432px -80px;
+}
+.table_row_delete {
+	background-position:-432px -96px;
+}
+.table_row_insert {
+	background-position:-432px -112px;
+}
+.table_save {
+	background-position:-432px -128px;
+}
+.table_sort {
+	background-position:-432px -144px;
+}
+.tag {
+	background-position:-432px -160px;
+}
+.tag_blue {
+	background-position:-432px -176px;
+}
+.tag_blue_add {
+	background-position:-432px -192px;
+}
+.tag_blue_delete {
+	background-position:-432px -208px;
+}
+.tag_blue_edit {
+	background-position:-432px -224px;
+}
+.tag_green {
+	background-position:-432px -240px;
+}
+.tag_orange {
+	background-position:-432px -256px;
+}
+.tag_pink {
+	background-position:-432px -272px;
+}
+.tag_purple {
+	background-position:-432px -288px;
+}
+.tag_red {
+	background-position:-432px -304px;
+}
+.tag_yellow {
+	background-position:-432px -320px;
+}
+.telephone {
+	background-position:-432px -336px;
+}
+.telephone_add {
+	background-position:-432px -352px;
+}
+.telephone_delete {
+	background-position:-432px -368px;
+}
+.telephone_edit {
+	background-position:-432px -384px;
+}
+.telephone_error {
+	background-position:-432px -400px;
+}
+.telephone_go {
+	background-position:-432px -416px;
+}
+.telephone_key {
+	background-position:-432px -432px;
+}
+.telephone_link {
+	background-position:-432px -448px;
+}
+.television {
+	background-position:-432px -464px;
+}
+.television_add {
+	background-position:-432px -480px;
+}
+.television_delete {
+	background-position:-432px -496px;
+}
+.text_align_center {
+	background-position:-448px 0px;
+}
+.text_align_justify {
+	background-position:-448px -16px;
+}
+.text_align_left {
+	background-position:-448px -32px;
+}
+.text_align_right {
+	background-position:-448px -48px;
+}
+.text_allcaps {
+	background-position:-448px -64px;
+}
+.text_bold {
+	background-position:-448px -80px;
+}
+.text_columns {
+	background-position:-448px -96px;
+}
+.text_dropcaps {
+	background-position:-448px -112px;
+}
+.text_heading_1 {
+	background-position:-448px -128px;
+}
+.text_heading_2 {
+	background-position:-448px -144px;
+}
+.text_heading_3 {
+	background-position:-448px -160px;
+}
+.text_heading_4 {
+	background-position:-448px -176px;
+}
+.text_heading_5 {
+	background-position:-448px -192px;
+}
+.text_heading_6 {
+	background-position:-448px -208px;
+}
+.text_horizontalrule {
+	background-position:-448px -224px;
+}
+.text_indent {
+	background-position:-448px -240px;
+}
+.text_indent_remove {
+	background-position:-448px -256px;
+}
+.text_italic {
+	background-position:-448px -272px;
+}
+.text_kerning {
+	background-position:-448px -288px;
+}
+.text_letter_omega {
+	background-position:-448px -304px;
+}
+.text_letterspacing {
+	background-position:-448px -320px;
+}
+.text_linespacing {
+	background-position:-448px -336px;
+}
+.text_list_bullets {
+	background-position:-448px -352px;
+}
+.text_list_numbers {
+	background-position:-448px -368px;
+}
+.text_lowercase {
+	background-position:-448px -384px;
+}
+.text_padding_bottom {
+	background-position:-448px -400px;
+}
+.text_padding_left {
+	background-position:-448px -416px;
+}
+.text_padding_right {
+	background-position:-448px -432px;
+}
+.text_padding_top {
+	background-position:-448px -448px;
+}
+.text_replace {
+	background-position:-448px -464px;
+}
+.text_signature {
+	background-position:-448px -480px;
+}
+.text_smallcaps {
+	background-position:-448px -496px;
+}
+.text_strikethrough {
+	background-position:-464px 0px;
+}
+.text_subscript {
+	background-position:-464px -16px;
+}
+.text_superscript {
+	background-position:-464px -32px;
+}
+.text_underline {
+	background-position:-464px -48px;
+}
+.text_uppercase {
+	background-position:-464px -64px;
+}
+.textfield {
+	background-position:-464px -80px;
+}
+.textfield_add {
+	background-position:-464px -96px;
+}
+.textfield_delete {
+	background-position:-464px -112px;
+}
+.textfield_key {
+	background-position:-464px -128px;
+}
+.textfield_rename {
+	background-position:-464px -144px;
+}
+.thumb_down {
+	background-position:-464px -160px;
+}
+.thumb_up {
+	background-position:-464px -176px;
+}
+.tick {
+	background-position:-464px -192px;
+}
+.time {
+	background-position:-464px -208px;
+}
+.time_add {
+	background-position:-464px -224px;
+}
+.time_delete {
+	background-position:-464px -240px;
+}
+.time_go {
+	background-position:-464px -256px;
+}
+.timeline_marker {
+	background-position:-464px -272px;
+}
+.transmit {
+	background-position:-464px -288px;
+}
+.transmit_add {
+	background-position:-464px -304px;
+}
+.transmit_blue {
+	background-position:-464px -320px;
+}
+.transmit_delete {
+	background-position:-464px -336px;
+}
+.transmit_edit {
+	background-position:-464px -352px;
+}
+.transmit_error {
+	background-position:-464px -368px;
+}
+.transmit_go {
+	background-position:-464px -384px;
+}
+.tux {
+	background-position:-464px -400px;
+}
+.user {
+	background-position:-464px -416px;
+}
+.user_add {
+	background-position:-464px -432px;
+}
+.user_comment {
+	background-position:-464px -448px;
+}
+.user_delete {
+	background-position:-464px -464px;
+}
+.user_edit {
+	background-position:-464px -480px;
+}
+.user_female {
+	background-position:-464px -496px;
+}
+.user_go {
+	background-position:-480px 0px;
+}
+.user_gray {
+	background-position:-480px -16px;
+}
+.user_green {
+	background-position:-480px -32px;
+}
+.user_orange {
+	background-position:-480px -48px;
+}
+.user_red {
+	background-position:-480px -64px;
+}
+.user_suit {
+	background-position:-480px -80px;
+}
+.vcard {
+	background-position:-480px -96px;
+}
+.vcard_add {
+	background-position:-480px -112px;
+}
+.vcard_delete {
+	background-position:-480px -128px;
+}
+.vcard_edit {
+	background-position:-480px -144px;
+}
+.vector {
+	background-position:-480px -160px;
+}
+.vector_add {
+	background-position:-480px -176px;
+}
+.vector_delete {
+	background-position:-480px -192px;
+}
+.wand {
+	background-position:-480px -208px;
+}
+.weather_clouds {
+	background-position:-480px -224px;
+}
+.weather_cloudy {
+	background-position:-480px -240px;
+}
+.weather_lightning {
+	background-position:-480px -256px;
+}
+.weather_rain {
+	background-position:-480px -272px;
+}
+.weather_snow {
+	background-position:-480px -288px;
+}
+.weather_sun {
+	background-position:-480px -304px;
+}
+.webcam {
+	background-position:-480px -320px;
+}
+.webcam_add {
+	background-position:-480px -336px;
+}
+.webcam_delete {
+	background-position:-480px -352px;
+}
+.webcam_error {
+	background-position:-480px -368px;
+}
+.world {
+	background-position:-480px -384px;
+}
+.world_add {
+	background-position:-480px -400px;
+}
+.world_delete {
+	background-position:-480px -416px;
+}
+.world_edit {
+	background-position:-480px -432px;
+}
+.world_go {
+	background-position:-480px -448px;
+}
+.world_link {
+	background-position:-480px -464px;
+}
+.wrench {
+	background-position:-480px -480px;
+}
+.wrench_orange {
+	background-position:-480px -496px;
+}
+.xhtml {
+	background-position:-496px 0px;
+}
+.xhtml_add {
+	background-position:-496px -16px;
+}
+.xhtml_delete {
+	background-position:-496px -32px;
+}
+.xhtml_go {
+	background-position:-496px -48px;
+}
+.xhtml_valid {
+	background-position:-496px -64px;
+}
+.zoom {
+	background-position:-496px -80px;
+}
+.zoom_in {
+	background-position:-496px -96px;
+}
+.zoom_out {
+	background-position:-496px -112px;
+}
