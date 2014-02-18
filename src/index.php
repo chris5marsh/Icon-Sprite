@@ -7,7 +7,7 @@ if ($_POST['createsprite'] == 'true') {
 	include('generate.php');
 }
 
-echo ICONDIR;
+//echo ICONDIR;
 
 ?>
 <!DOCTYPE html>

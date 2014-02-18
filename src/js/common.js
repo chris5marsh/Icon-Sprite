@@ -30,17 +30,17 @@ $(function() {
 		// Set up 'Select all', 'Select none' and 'Select group' boxes
 		var selectDiv = $(document.createElement('ul')).attr({'id':'select-buttons'}),
 				selectAllInput = $(document.createElement('input')).attr({'type':'radio', 'name':'select-button', 'id':'select-button-all', 'value':'Select All'}).click(iS.selectAll),
-				selectAllLabel = $(document.createElement('label')).attr('for','select-button-all').html('<img src="/img/famfamfam/accept.png" alt="Select All" /> Select All'),
+				selectAllLabel = $(document.createElement('label')).attr('for','select-button-all').html('<img src="/img/silk/accept.png" alt="Select All" /> Select All'),
 				selectNoneInput = $(document.createElement('input')).attr({'type':'radio', 'name':'select-button', 'id':'select-button-none', 'value':'Select None'}).click(iS.selectNone),
-				selectNoneLabel = $(document.createElement('label')).attr('for','select-button-none').html('<img src="/img/famfamfam/delete.png" alt="Select None" /> Select None'),
+				selectNoneLabel = $(document.createElement('label')).attr('for','select-button-none').html('<img src="/img/silk/delete.png" alt="Select None" /> Select None'),
 				selectSomeInput = $(document.createElement('input')).attr({'type':'radio', 'name':'select-button', 'id':'select-button-some', 'value':'Select Some'}).click(iS.selectSome),
-				selectSomeLabel = $(document.createElement('label')).attr('for','select-button-some').html('<img src="/img/famfamfam/help.png" alt="Select Some" /> Select Some'),
+				selectSomeLabel = $(document.createElement('label')).attr('for','select-button-some').html('<img src="/img/silk/help.png" alt="Select Some" /> Select Some'),
 				selectAll = $(document.createElement('li')).append(selectAllInput, selectAllLabel),
 				selectNone = $(document.createElement('li')).append(selectNoneInput, selectNoneLabel),
 				selectSome = $(document.createElement('li')).append(selectSomeInput, selectSomeLabel);
 				selectDiv.append(selectAll, selectNone, selectSome);
 				$('#iconform').before(selectDiv);
-		// Custom sets - suggestions: music, code, text editor, 
+		// Custom sets - suggestions: music, code, text editor,
 		iS.iconset = {};
 		iS.iconset[0] = ['accept', 'add', 'cancel', 'cross', 'delete', 'error', 'exclamation', 'help', 'information', 'stop', 'tick'];
 		//iS.iconset['Web Development'] = ['accept', 'add', 'cancel', 'cross', 'delete', 'error', 'exclamation', 'help', 'information', 'stop', 'tick'];
